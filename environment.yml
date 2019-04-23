@@ -1,0 +1,23 @@
+name: base-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
+  - octave_kernel
+  - pyjanitor
+  - node
+  - boto
+  - django
+  - requests
+  - nodejs=9
+  - jupyterlab>=0.33
+  - geopandas
+  - simplejson
+  - go 
+  - pip:
+    - bash_kernel
+    - jupyterlab_latex
+    - prettyprint
