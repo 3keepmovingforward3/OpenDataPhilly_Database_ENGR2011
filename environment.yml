@@ -17,6 +17,7 @@ dependencies:
   - geopandas
   - simplejson
   - go 
+  - rise
   - pip:
     - bash_kernel
     - jupyterlab_latex
