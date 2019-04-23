@@ -21,3 +21,4 @@ dependencies:
     - bash_kernel
     - jupyterlab_latex
     - prettyprint
+    - mplleaflet
