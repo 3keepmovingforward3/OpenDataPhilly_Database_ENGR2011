@@ -1,7 +1,19 @@
 # ENGR-2011
 Engineering Analysis Final Project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djhunter67/ENGR-2011.git/master)
+## Project Requirements  
+Write Matlab functions, with quantity determined by group size. This was too easy a brief, so we made it harder(**more fun**) by bringing in other programming languages and data sources.  
+
+## Project Overview
+Matlab functions are written just like other function in other languages with its own silly syntax:  
+``` function [foo] = doMyLine(x,y) ```  
+`function` is a keyword  
+`foo` is the name of the return variable, or think of it as a pedantic way to return.  
+`doMyLine(x,y)` is the function name and the function takes in two variables which we labeled.  
+
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/3keepmovingforward3/OpenDataPhilly_Database_ENGR2011.git/master)
     
     The csv files are of a radius 1609 meters which equals about a mile.
 
